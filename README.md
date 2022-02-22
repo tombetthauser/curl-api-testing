@@ -1,6 +1,6 @@
-[curlin](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhbewcRhBwnYvC%2Fgiphy.gif&f=1&nofb=1)
+![curlin](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhbewcRhBwnYvC%2Fgiphy.gif&f=1&nofb=1)
 
-# Testing a Local API with Curl
+# Testing Local APIs with Curl
 
 Curl is a command-line utility that allows users to create network requests. Curl is accessible on Windows, Linux, and Mac. It is an extremely quick tool for checking GET requests but is also fully capable of making other kinds of requests with headers and form data. It can be preferable to bulky applications like postman when doing quick testing and sanity checks on your api.
 
