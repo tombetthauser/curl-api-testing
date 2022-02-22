@@ -1,8 +1,12 @@
 ![curlin](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhbewcRhBwnYvC%2Fgiphy.gif&f=1&nofb=1)
 
-# Testing Local APIs with Curl
+# Testing Local APIs with cURL
 
-Curl is a command-line utility that allows users to create network requests. Curl is accessible on Windows, Linux, and Mac. It is an extremely quick tool for checking GET requests but is also fully capable of making other kinds of requests with headers and form data. It can be preferable to bulky applications like postman when doing quick testing and sanity checks on your api.
+Curl (pronounced "curl" but officially typed as "cURL") is a command line utility for transferring data using various network protocols. Curl is accessible on Windows, Linux, and Mac and is an extremely quick tool for checking basic GET and POST requests while developing an API locally. It can be preferable to bulky applications like postman for quick testing and sanity checks.
+
+The name cURL stands for "Client URL". It was first released in 1996 originally being called httpget and then urlget before becoming cURL. The original author and lead developer is the Swedish developer Daniel Stenberg, who created cURL because he wanted to automate the fetching of currency exchange rates for IRC users.
+
+[more meaningless historical context on wikipedia](https://en.wikipedia.org/wiki/CURL)
 
 ## Simple GET Requests
 
