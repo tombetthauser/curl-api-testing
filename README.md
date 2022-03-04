@@ -31,7 +31,7 @@ curl -X POST http://localhost:5000/api/users
 Using the -d flag allows us to send data with the POST request as in the example below where we send a username and a password field along with their corresponding values.
 
 ```bash
-curl -d "username=tom&password=hunter2thompson" -X POST https://localhost:5000/api/login
+curl -d "username=tom&password=hunter2thompson" -X POST http://localhost:5000/api/login
 ```
 
 
